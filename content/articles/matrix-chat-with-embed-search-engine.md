@@ -6,7 +6,7 @@ author: ["theoteno"]
 
 _This article was originally posted on [theoteno's Inkwell blog](https://inkwell.social/theoteno/matrix-chat-with-embed-search-engine)._
 
-Where do I even start? Oh, of course with the long Discord/Amazon outage on a night 2 days ago… but unlike 1-2 weeks ago, I planned to watch anime with a new friend. (we met on a local anime Discord, I needed it for my local "Crunchyroll" registration) I needed a backup plan for later. Luckily, I was already a user of the Matrix chat protocol with Discord alternative clients, after being betrayed by Stoat(Revolt). Unless there's a Flatpak for Stoat, I don't think I can use it in Game mode on my Steam Deck.
+Where do **I** even **start**? Oh, of course **with the long Discord/Amazon outage on a night 2 days ago…** ***but unlike 1-2 weeks ago, I planned to watch anime with a new friend.*** (*we met on a local anime Discord, I needed it for my local "Crunchyroll" registration*) **I needed a backup plan for later. Luckily, I was already a user of the Matrix chat protocol with Discord alternative clients**, after being betrayed by Stoat(Revolt). Unless there's a Flatpak for Stoat, I don't think I can use it in Game mode on my Steam Deck.
 
 ![mwmbl embedded as a widget in Element on Steam Deck](/images/theoteno-matrix-mwmbl.jpg)
 
@@ -55,7 +55,8 @@ The server admin (one of the devs) suggested a blog post, so I did one after fin
 
 I'm sorry you couldn't run it like that on mobile, Daoud Clarke: it still perfectly runs on Element Classic (Android 11)…
 
-(psst… maybe it runs on Element.io at the browser as a widget! Please don't give it up!)
+(psst… maybe it runs on [Element.io](http://element.io/) at the browser as a widget! Please don't give it up!)
+[](https://mastodon.social/@theoteno/116547600976424979)
 
 Ok, the music is over, time to sleep till 12PM!
 
