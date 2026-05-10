@@ -31,7 +31,7 @@ I still didn't try search engines at this point!
 
 I tried Google, then looked for embedding search engines (after failing with the main DuckDuckGo URL) with Whoogle, LibreX coming to mind: none of the 2 is maintained anymore.
 
-Right after, I hit gold: duckduckgo.com/search.html was working… kinda
+Right after, I hit gold: [duckduckgo.com/search.html](https://duckduckgo.com/search.html) was working… kinda
 
 I wanted to find a gif search engine, so I continued my search!
 
@@ -59,4 +59,4 @@ I'm sorry you couldn't run it like that on mobile, Daoud Clarke: it still perfec
 
 Ok, the music is over, time to sleep till 12PM!
 
-(I added inkwell.social to the mwmbl index waiting list, everyone sleep well!)
+(I added [inkwell.social](https://inkwell.social/explore) to the mwmbl index waiting list, everyone sleep well!)
